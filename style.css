@@ -244,3 +244,25 @@ hr{
     text-align: center;
     font-size: 35px;
 }
+footer{
+    background-color: #f15a29;
+    height: 360px;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    /* align-items: center; */
+}
+.menu h3{
+    font-size: 45px;
+}
+.menu h4{
+    font-size: 20px;
+}
+.logo{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.last-p{
+    padding: 10px;
+}
