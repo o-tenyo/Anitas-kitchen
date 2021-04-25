@@ -77,15 +77,15 @@
     text-align: center;
 }
 h2{
-    font-size: 35px;
+    font-size: 30px;
 }
 h3{
-    font-size: 23px;
+    font-size: 18px;
 }
 .fast-food{
     padding-top: 90px;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 310px;
+    padding-right: 310px;
     display: flex;
     flex-direction: row;
     font-family: monospace;
@@ -99,7 +99,7 @@ h3{
     text-align: right;
 }
 .fast-food-images{
-    width: 400px;
+    /* width: 400px; */
     display: flex;
     flex-direction: column;
     border-style: double;
@@ -107,24 +107,25 @@ h3{
     border-color: rgb(252, 250, 250);
 }
 .fast-food-text{
-    max-width: 600px;
-    margin-left: 100px;
+    /* max-width: 600px; */
+    margin-left: 50px;
 }
 .drinks{
     padding-top: 60px;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 310px;
+    padding-right: 310px;
     display: flex;
     flex-direction: row;
     font-family: monospace;
     text-align: right;
 }
 .drinks-text{
-    max-width: 600px;
-    margin-right: 100px;
+    /* max-width: 600px; */
+    margin-right: 50px;
 }
 .drinks-images{
-    width: 400px;
+    /* width: 400px; */
+    /* height: 400px; */
     display: flex;
     flex-direction: row;
     border-style: double;
