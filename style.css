@@ -52,7 +52,7 @@
 }
 .lunch{
     color: white;
-    background-image: url("/assets/foodtop/lunch.jpg");
+    background-image: url("/assets/foodtop/dinner2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 260px;
@@ -65,7 +65,7 @@
 }
 .dinner{
     color: white;
-    background-image: url("/assets/foodtop/dinner2.jpg");
+    background-image: url("/assets/foodtop/dinner.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 260px;
