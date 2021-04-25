@@ -199,3 +199,39 @@ h3{
     flex-grow: 1;
     text-align: center;
 }
+.second-last{
+    background-color: rgb(245, 240, 240);
+    margin-right: 220px;
+    margin-left: 220px;
+    height: 200px;
+    margin-top: 80px;
+    box-shadow: 2px 2px 2px gray;
+    font-family: monospace;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.happy-customers-heading, .about-menu-heading {
+    color: #f15a29;
+}
+.happy-customers-p, .about-menu-p{
+    font-size: 15px;
+}
+hr{ 
+    border:         none;
+    border-left:    1px solid hsla(200, 10%, 50%,100);
+    height:         20vh;
+    width:          1px;    
+    padding: 0 20px;
+}
+.happy-customers{
+    margin-right: 50px;
+}
+.about-menu{
+    max-width: 500px;
+}
+
+.subscription{
+    color: white;
+}
