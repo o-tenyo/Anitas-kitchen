@@ -81,6 +81,7 @@ h2{
 }
 h3{
     font-size: 18px;
+    font-family: monospace;
 }
 .fast-food{
     padding-top: 90px;
@@ -91,11 +92,11 @@ h3{
     font-family: monospace;
 }
 .fast-food-p{
-    font-size: 12px;
+    font-size: 13px;
     text-align: left;
 }
 .drinks-p{
-    font-size: 12px;
+    font-size: 13px;
     text-align: right;
 }
 .fast-food-images{
@@ -111,7 +112,8 @@ h3{
     margin-left: 50px;
 }
 .drinks{
-    padding-top: 60px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     padding-left: 310px;
     padding-right: 310px;
     display: flex;
@@ -131,4 +133,69 @@ h3{
     border-style: double;
     border-width: 15px 15px;
     border-color: rgb(252, 250, 250);
+}
+.enclosed{
+    background-image: url("/assets/backgrounds/foodsBg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding-top: 120px;
+}
+.inner-white{
+    background-color: rgb(245, 240, 240);
+    /* padding-top: 80px; */
+    margin-right: 220px;
+    margin-left: 220px;
+    height: 480px;
+}
+.enclosed-titles{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 70px;
+    /* align-items: center; */
+}
+.inner-fast{
+    flex-grow: 1;
+    text-align: center;
+    color: #f15a29;
+    
+}
+.inner-drinks{
+    flex-grow: 1;
+    text-align: center;
+    font-family: monospace;
+    background-color: rgb(223, 214, 214);
+    border: solid rgb(206, 197, 197) 0.1rem;
+}
+.inner-chicken{
+    flex-grow: 1;
+    text-align: center;
+    background-color: rgb(223, 214, 214);
+    border: solid rgb(206, 197, 197) 0.1rem;
+}
+.inner-rice{
+    flex-grow: 1;
+    text-align: center;
+    background-color: rgb(223, 214, 214);
+    border: solid rgb(206, 197, 197) 0.1rem;
+}
+.enclosed-foods{
+    display: flex;
+    justify-content: space-around;
+    color: #f15a29;
+    font-family: monospace;
+    font-size: 16px;
+    /* align-items: center; */
+}
+.chicken-burger{
+    flex-grow: 1;
+    text-align: center;
+}
+.beef-burger{
+    flex-grow: 1;
+    text-align: center;
+}
+.chicken-pizza{
+    flex-grow: 1;
+    text-align: center;
 }
