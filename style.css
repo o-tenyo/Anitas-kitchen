@@ -2,7 +2,7 @@
 .landing{
     padding-top: 200px;
     text-align: center;
-    background-image: url("/assets/backgrounds/landing.jpg");
+    background-image: url("landing.jpg");
     color: white;
     background-size: cover;
     background-repeat: no-repeat;
@@ -38,7 +38,7 @@
 }
 .breakfast{
     color: white;
-    background-image: url("/assets/foodtop/breakfast.jpg");
+    background-image: url("breakfast.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 260px;
@@ -52,7 +52,7 @@
 }
 .lunch{
     color: white;
-    background-image: url("/assets/foodtop/dinner2.jpg");
+    background-image: url("dinner2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 260px;
@@ -65,7 +65,7 @@
 }
 .dinner{
     color: white;
-    background-image: url("/assets/foodtop/dinner.jpg");
+    background-image: url("dinner.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 260px;
@@ -135,7 +135,7 @@ h3{
     border-color: rgb(252, 250, 250);
 }
 .enclosed{
-    background-image: url("/assets/backgrounds/foodsBg.jpg");
+    background-image: url("foodsBg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
