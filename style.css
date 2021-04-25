@@ -234,4 +234,13 @@ hr{
 
 .subscription{
     color: white;
+    height: 350px;
+    background-image: url("subscribe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.get{
+    padding-top: 120px;
+    text-align: center;
+    font-size: 35px;
 }
