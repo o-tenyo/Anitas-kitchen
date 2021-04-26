@@ -11,4 +11,6 @@
 
 #### Contact information: johnstone.omundi@student.moringaschool.com
 
+#### MIT License
 
+#### Copyright (c) 2021 Johnstone Omundi
