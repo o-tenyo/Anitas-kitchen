@@ -13,6 +13,9 @@
 .two{
     display: flex;
     flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
     /* justify-content: space-between; */
     /* float: inherit; */
 }
@@ -26,6 +29,9 @@
     font-family: monospace;
     font-size: 30px;
     font-style: normal;
+    text-align: center;
+    justify-content: center;
+    /* align-items: center; */
 }
 .happy-hour{
     background-color: rgb(189, 175, 175);
@@ -264,5 +270,5 @@ footer{
     align-items: center;
 }
 .last-p{
-    padding: 10px;
+    margin-bottom: 20px;
 }
