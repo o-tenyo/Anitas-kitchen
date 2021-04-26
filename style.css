@@ -245,6 +245,14 @@ hr{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.input-fields{
+    display: flex;
+    justify-content: center;
+}
+#subscribe{
+    background-color: #f15a29 ;
+    color: white;
+}
 .get{
     padding-top: 120px;
     text-align: center;
