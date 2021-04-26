@@ -251,7 +251,15 @@ hr{
 }
 #subscribe{
     background-color: #f15a29 ;
-    color: white;
+    /* color: white; */
+}
+input{
+    width: 20%;
+    box-sizing: border-box;
+    padding: 12px 20px;
+    font-size: 20px;
+    margin: 8px 0;
+    font-weight: inherit;
 }
 .get{
     padding-top: 120px;
