@@ -5,6 +5,14 @@
     left: 150px;
     font-size: 80px;
 }
+button{
+    color: #f15a29;
+    font-weight: 300;
+    padding: 5px;
+    background-color: white;
+    border-color: #f15a29;
+    border-style: solid;
+}
 .landing{
     padding-top: 100px;
     text-align: center;
