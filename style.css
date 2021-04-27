@@ -1,5 +1,12 @@
+#menu-top{
+    /* width: 20px; */
+    position: absolute;
+    top: 80px;
+    left: 150px;
+    font-size: 80px;
+}
 .landing{
-    padding-top: 200px;
+    padding-top: 100px;
     text-align: center;
     background-image: url("landing.jpg");
     color: white;
