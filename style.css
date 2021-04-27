@@ -1,4 +1,3 @@
-
 .landing{
     padding-top: 200px;
     text-align: center;
@@ -29,7 +28,7 @@
     font-family: monospace;
     font-size: 30px;
     font-style: normal;
-    text-align: center;
+    /* text-align: center; */
     justify-content: center;
     /* align-items: center; */
 }
@@ -54,7 +53,8 @@
     font-size: 30px;
     font-style: italic;
     text-align: center;
-    
+    justify-content: center;
+    align-items: center;
 }
 .lunch{
     color: white;
@@ -191,7 +191,7 @@ h3{
     color: #f15a29;
     font-family: monospace;
     font-size: 16px;
-    /* align-items: center; */
+    align-items: center;
 }
 .chicken-burger{
     flex-grow: 1;
@@ -217,6 +217,8 @@ h3{
     flex-direction: row;
     text-align: center;
     margin-bottom: 80px;
+    align-items: center;
+    padding-bottom: 20px;
 }
 .happy-customers-heading, .about-menu-heading {
     color: #f15a29;
